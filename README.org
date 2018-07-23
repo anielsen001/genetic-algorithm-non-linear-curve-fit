@@ -1,1 +1,4 @@
-This code is from CWRU's Physics 249 in Spring of 1993.
+This Pascal code is from CWRU's Physics 249 in Spring of 1993.
+
+The line endings are the old Mac CR style.
+
